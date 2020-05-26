@@ -1,4 +1,3 @@
-# JPMorgan
 
 The problem
 Implement a small message processing application that satisfies the below requirements for
